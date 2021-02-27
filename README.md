@@ -9,3 +9,5 @@ Implemented bot beats all other agents in every public Scenario dominantly, whil
 
 In order to run the project, extract the Homework.zip into a folder, import it into a Java IDE such as Eclipse, compile it into a JAR file.
 Then extract run.zip and copy the jar file inside and open run.bat in Command Prompt which will run tests for each of the given scenarios.
+
+For more information about The Evolution of Trust, other types of agents and a GUI environment, visit https://ncase.me/trust.
